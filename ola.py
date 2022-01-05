@@ -1,2 +1,2 @@
 print("Hello Word!!")
-print("OLAAA MAin")
+print("Adeus tratado")
